@@ -1,4 +1,4 @@
-# Throttling in React
+# Accordion in React
 In this project, I have developed an accordion component.
 
 
